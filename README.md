@@ -19,6 +19,8 @@ We have used different pages that have helped us in the creation of the project.
 - Google Fonts: https://fonts.google.com/ (Found the fonts for the proyect)
 - Stack Overflow: https://stackoverflow.com/ (Resolve doubts about languages)
 - Adobe Color: https://color.adobe.com/es/create/image (Found a palette for the proyect)
+- Cloudinary: https://cloudinary.com/ (Photo URL JSON)
+- Figma: https://www.figma.com/ (Design)
 
 
 ##### License
