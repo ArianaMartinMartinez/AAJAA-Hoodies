@@ -10,11 +10,11 @@ During this project we have developed the front of an online hoodies shop.
 
 ### Our team
 
-- Angie Helen Rodas
-- Ariana Martín
-- Alberto Hernández
-- Alejandro Campos
-- Jaz Walters
+- [Angie Helen Rodas](https://github.com/angiehelensanchez)
+- [Ariana Martín](https://github.com/ArianaMartinMartinez)
+- [Alberto Hernández](https://github.com/TOKIO-V2)
+- [Alejandro Campos](https://github.com/Camposx)
+- [Jaz Walters](https://github.com/Jaz356)
 
 ## Instalation.
 This project does not have any type of installation, you just have to download the project and open the HTML file with a browser.
