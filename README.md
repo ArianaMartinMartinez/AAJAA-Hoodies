@@ -3,7 +3,7 @@
 >[!CAUTION]
 >Please read all the points of the README in order to make good use of the project. Thank you.
 ## Introduction.
-
+During this project we have developed the front of an online hoodies shop.
 
 >[!NOTE]
 >Right now we are just first-time students.
@@ -18,8 +18,8 @@ This project does not have any type of installation, you just have to download t
 We have used different pages that have helped us in the creation of the project. I leave the links below:
 - Google Fonts: https://fonts.google.com/ (Found the fonts for the proyect)
 - Stack Overflow: https://stackoverflow.com/ (Resolve doubts about languages)
-- Coolors: https://coolors.co/palettes/trending (Found a palette for the proyect)
-- Neumorphism: https://neumorphism.io/#e0e0e0 (Shadows design)
+- Adobe Color: https://color.adobe.com/es/create/image (Found a palette for the proyect)
+
 
 ##### License
 
