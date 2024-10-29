@@ -8,6 +8,14 @@ During this project we have developed the front of an online hoodies shop.
 >[!NOTE]
 >Right now we are just first-time students.
 
+### Our team
+
+- Angie Helen Rodas
+- Ariana Martín
+- Alberto Hernández
+- Alejandro Campos
+- Jaz Walters
+
 ## Instalation.
 This project does not have any type of installation, you just have to download the project and open the HTML file with a browser.
 >[!TIP]
