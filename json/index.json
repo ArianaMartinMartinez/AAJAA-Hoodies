@@ -2,67 +2,51 @@
     "hoodies": [
         {
             "id": 1,
-            "name": "",
+            "name": "Red Hoodie",
             "brand": "Chanel",
-            "img": "",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/mfnobvdnoyonjbt0dnhy.jpg",
             "price": 3900,
             "stars": 4
         },
         {
             "id": 2,
-            "name": "",
+            "name": "Pink Hoodie",
             "brand": "Prada",
-            "img": "",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/jz9pnkf5tubhgv2j6l3d.jpg",
             "price": 1750,
             "stars": 5
         },
         {
             "id": 3,
-            "name": "",
+            "name": "Green Hoodie",
             "brand": "Calvin Klein",
-            "img": "",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/nfoamqxaemoeaxedhgg1.jpg",
             "price": 599,
             "stars": 3
         },
         {
             "id": 4,
-            "name": "",
-            "brand": "Chanel",
-            "img": "",
-            "price": 1989,
-            "stars": 4
-        },
-        {
-            "id": 5,
-            "name": "",
+            "name": "Yellow Hoodie",
             "brand": "Denim",
-            "img": "",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/gkabr7lbhweenuxx7lam.jpg",
             "price": 175,
             "stars": 4
         },
         {
-            "id": 6,
-            "name": "",
-            "brand": "Prada",
-            "img": "",
-            "price": 2500,
-            "stars": 2
-        },
-        {
-            "id": 7,
-            "name": "",
-            "brand": "Calvin Klein",
-            "img": "",
-            "price": 299,
-            "stars": 5
-        },
-        {
-            "id": 8,
-            "name": "",
+            "id": 5,
+            "name": "Brown Hoodie",
             "brand": "Louis Vuitton",
-            "img": "",
-            "price": 750,
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/np0z6nmw9y8svehicldb.jpg",
+            "price": 2500,
             "stars": 4
+        },
+        {
+            "id": 6,
+            "name": "Black Hoodie",
+            "brand": "AAJAA",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/veo4agfewn3gr6u10sh5.jpg",
+            "price": 750,
+            "stars": 5
         }
     ]
 }
