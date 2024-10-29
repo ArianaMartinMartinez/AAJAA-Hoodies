@@ -1,0 +1,68 @@
+{
+    "hoodies": [
+        {
+            "id": 1,
+            "name": "",
+            "brand": "Chanel",
+            "img": "",
+            "price": 3900,
+            "stars": 4
+        },
+        {
+            "id": 2,
+            "name": "",
+            "brand": "Prada",
+            "img": "",
+            "price": 1750,
+            "stars": 5
+        },
+        {
+            "id": 3,
+            "name": "",
+            "brand": "Calvin Klein",
+            "img": "",
+            "price": 599,
+            "stars": 3
+        },
+        {
+            "id": 4,
+            "name": "",
+            "brand": "Chanel",
+            "img": "",
+            "price": 1989,
+            "stars": 4
+        },
+        {
+            "id": 5,
+            "name": "",
+            "brand": "Denim",
+            "img": "",
+            "price": 175,
+            "stars": 4
+        },
+        {
+            "id": 6,
+            "name": "",
+            "brand": "Prada",
+            "img": "",
+            "price": 2500,
+            "stars": 2
+        },
+        {
+            "id": 7,
+            "name": "",
+            "brand": "Calvin Klein",
+            "img": "",
+            "price": 299,
+            "stars": 5
+        },
+        {
+            "id": 8,
+            "name": "",
+            "brand": "Louis Vuitton",
+            "img": "",
+            "price": 750,
+            "stars": 4
+        }
+    ]
+}
