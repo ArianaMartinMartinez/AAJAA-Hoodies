@@ -1,0 +1,52 @@
+{
+    "hoodies": [
+        {
+            "id": 1,
+            "name": "Red Hoodie",
+            "brand": "Chanel",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/mfnobvdnoyonjbt0dnhy.jpg",
+            "price": 3900,
+            "stars": 4
+        },
+        {
+            "id": 2,
+            "name": "Pink Hoodie",
+            "brand": "Prada",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/jz9pnkf5tubhgv2j6l3d.jpg",
+            "price": 1750,
+            "stars": 5
+        },
+        {
+            "id": 3,
+            "name": "Green Hoodie",
+            "brand": "Calvin Klein",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/nfoamqxaemoeaxedhgg1.jpg",
+            "price": 599,
+            "stars": 3
+        },
+        {
+            "id": 4,
+            "name": "Yellow Hoodie",
+            "brand": "Denim",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/gkabr7lbhweenuxx7lam.jpg",
+            "price": 175,
+            "stars": 4
+        },
+        {
+            "id": 5,
+            "name": "Brown Hoodie",
+            "brand": "Louis Vuitton",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/np0z6nmw9y8svehicldb.jpg",
+            "price": 2500,
+            "stars": 4
+        },
+        {
+            "id": 6,
+            "name": "Black Hoodie",
+            "brand": "AAJAA",
+            "img": "https://res.cloudinary.com/dtxf1xjmd/image/upload/veo4agfewn3gr6u10sh5.jpg",
+            "price": 750,
+            "stars": 5
+        }
+    ]
+}

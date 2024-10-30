@@ -1,0 +1,67 @@
+:root{
+    --red: #D95043;
+    --dark: #261B26;
+    --white: #F2E2CE;
+    --blue: #3F7373;
+    --light-orange: #F2994B ;
+}
+
+.logo{
+    width: 25px;
+    margin: 10px;
+}
+
+.socialMedia, .legalStuff{
+    text-align: center;
+    min-height: 170px;
+}
+
+
+.ourTeam{
+    max-height: 430px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+footer{
+    left: 0;
+    bottom: 0;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footerTitles{
+    border-bottom: 1px solid #E0E1DD;
+    margin-bottom: 20px;
+}
+
+.footerBox{
+    width: 100%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+}
+
+.footerFeatures{
+    display: flex;
+    justify-content: center;
+}
+
+
+.featuresImg{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    display: flex;
+    text-decoration: none;
+}
