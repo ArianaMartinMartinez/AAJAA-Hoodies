@@ -1,37 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Rubik+Dirt&display=swap');
+
+:root{
+    --red: #D95043;
+    --dark: #261B26;
+    --white: #F2E2CE;
+    --blue: #3F7373;
+    --light-orange: #F2994B ;
+}
+*{
+    font-family: 'Roboto';
+}
+
 body{
-    margin: 0px;
-    background-color: rgb(244, 242, 237);
+    width: 100%;
+    min-height: 100dvh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
-h1 {
-    text-align: center;
-    background-color: orange;
+h1, h2, h3{
+    font-family: 'Rubik Dirt';
 }
-.navbar ul{
-    list-style-type: none;
-    padding: 0px;
-    margin: 0px;
-    overflow: hidden;
+main, footer, header{
+    background-color: var(--white);
+    color: var(--blue);
 }
-.navbar a{
-    text-decoration: none;
-    padding: 15px;
-    display: block;
+
+body a{
+    color: var(--blue);
 }
-.navbar a:hover{
-background-color: orange;
-}
-.navbar li{
-float: left;
-}
- img{
-    width: 85px;
-    vertical-align: middle;
- }
 
 .shopContainer{
-    width: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.introShop{
+    text-align: center;
+    margin: 10px 30px 10px 30px;
+}
+
+.shopContainer{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 40px;
+}
+
+.card{
+    border-radius: 50px;
+}
+
+.card-body{
+    background-color: var(--dark);
+}
+
+.card-body h5, .card-body p, .card-body h3{
+    color: var(--white);
+}
+
+.card-body i{
+    color: var(--light-orange);
 }

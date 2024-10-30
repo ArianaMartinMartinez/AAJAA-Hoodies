@@ -1,0 +1,37 @@
+:root{
+    --red: #D95043;
+    --dark: #261B26;
+    --white: #F2E2CE;
+    --blue: #3F7373;
+    --light-orange: #F2994B ;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px 0px 30px;
+}
+
+h1 {
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+.navbar a:hover{
+    background-color: var(--light-orange);
+}
+.navbar li{
+    float: left;
+}
+.aajaaLogo{
+    width: 85px;
+    vertical-align: middle;
+    border-radius: 10px;
+    margin-right: 20px;
+}

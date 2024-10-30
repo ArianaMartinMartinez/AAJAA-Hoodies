@@ -16,7 +16,7 @@ async function fetchHoodiesJson() {
 
 function createHoodieCard ({id, name, brand, img, price, stars}){
     return `
-        <div class="card m-4" style="width: 18rem">
+        <div class="card m-4" style="width: 30rem">
             <img src="${img}" class="card-img-top" alt="Person wearing a ${brand} ${name}.">
             <div class="card-body">
                 <div class="d-flex justify-content-between">
