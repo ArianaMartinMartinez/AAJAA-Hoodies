@@ -21,6 +21,8 @@ This project does not have any type of installation, you just have to download t
 >[!TIP]
 >You can use any browser but i advice you use chrome browser.
 
+You can also see our web deployed with GitHub Pages: https://angiehelensanchez.github.io/AAJAA-Hoodies
+
 
 ## Documentation
 We have used different pages that have helped us in the creation of the project. I leave the links below:
