@@ -1,0 +1,72 @@
+.logo{
+    width: 25px;
+    margin: 10px;
+}
+
+.socialMedia, .legalStuff{
+    text-align: center;
+    min-height: 170px;
+}
+
+
+.ourTeam{
+    
+    max-height: 430px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+footer{
+    left: 0;
+    bottom: 0;
+    max-width: 100%;
+    background-color: #F2994B; 
+    display: flex;
+    justify-content: center;
+    color: black;
+    box-shadow: 0px -10px 10px #F2994B;
+    flex-direction: column;
+    
+    
+}
+
+
+.footerTitles{
+    border-bottom: 1px solid #E0E1DD;
+    margin-bottom: 20px;
+}
+
+.footerBox{
+    width: 100%;
+    background-color: #F2E2CE;
+    margin: 40px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* padding: 20px; */
+    box-shadow: 7px 7px 17px #f59527 inset,
+    -7px -7px 17px #f59527 inset;
+    height: 300px;
+    
+}
+
+.footerFeatures{
+    display: flex;
+    justify-content: center;
+}
+
+
+.featuresImg{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    display: flex;
+    
+}
