@@ -31,6 +31,7 @@ We have used different pages that have helped us in the creation of the project.
 - Adobe Color: https://color.adobe.com/es/create/image (Found a palette for the proyect)
 - Cloudinary: https://cloudinary.com/ (Photo URL JSON)
 - Figma: https://www.figma.com/ (Design)
+- W3Schools: https://www.w3schools.com/ (General code)
 
 
 ## License
