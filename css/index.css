@@ -62,3 +62,49 @@ body a{
 .card-body i{
     color: var(--light-orange);
 }
+
+.frontPageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.frontPage {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.imgFrontPageLeft {
+    background-color: #E0E0E0;
+    grid-row: 1 / span 3;
+    grid-column-start: 1;
+}
+
+.imgFrontPageRight {
+    background-color: #E0E0E0;
+    grid-row: 1 / span 3;
+    grid-column-start: 3;
+}
+
+.textFrontPageCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carouselExampleAutoplaying {
+    display: none;
+}
+
+@media (max-width: 900px) {
+    #carouselExampleAutoplaying {
+        display: flex;
+    }
+    
+    .frontPageContainer {
+        display: none;
+    }
+}
