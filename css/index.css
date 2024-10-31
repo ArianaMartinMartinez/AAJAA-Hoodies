@@ -18,6 +18,11 @@ body{
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
+
+main{
+    padding-top: 10rem;
+}
+
 h1, h2, h3{
     font-family: 'Rubik Dirt';
 }
