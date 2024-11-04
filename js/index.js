@@ -1,4 +1,4 @@
-const requestURL = '../json/index.json';
+const requestURL = './json/index.json';
 
 async function fetchHoodiesJson() {
     try{
